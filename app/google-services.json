@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119021545224",
+    "project_id": "bitbrothers-assignment",
+    "storage_bucket": "bitbrothers-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119021545224:android:0c89c27009ec624fdf2ebd",
+        "android_client_info": {
+          "package_name": "com.sanioluke00.bitbrothersassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119021545224-e81v3srukl9qh7a705a9of4fto4tfl2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB408SdWv5LOIYIhjIIMw2i6iX_spE7jeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119021545224-e81v3srukl9qh7a705a9of4fto4tfl2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
